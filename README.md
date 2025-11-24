@@ -1,5 +1,11 @@
 # BLY
 
+## Attention! The current design is flawed :) 
+
+I'd checked through, asked a council of AI's for opinions (Sonnet 4.5, GPT-5.1-Thinking and Gemini 3 Pro), chatted to a friend about it, stewed over it... I was happy with the plan, I'd even submitted the order. Then, lying awake on a Sunday night, I went for one final sanity check and asked Gemini to list anything that could lower the chance of success, and while thinking away it hit on something I'd completely missed at the start... aeBlue is a **tetramer**! In other words, the piece I was working with was one of four subunits that group together to do their thing, and tacking on fwYellow would likely mess that up and result in a clumpy mess. There's still a chance it could work out, but I managed to halt the order and will change gears and shift to a plasmid design that makes the two pieces separately within an operon. Phew!
+
+## (Old stuff, ignore until I get organised)
+
 Attempting to make a green protein! I've designed and ordered a plasmid for it. This repo has my process, the relevant DNA bits, and will house results once I get it and try to get it into something living :)
 
 <img width="925" height="834" alt="image" src="https://github.com/user-attachments/assets/2890887a-9025-4512-87d5-4c4df2c5c769" />
