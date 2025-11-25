@@ -14,4 +14,8 @@ I want a visible-light green to complement the [set of chromoproteins](https://a
 
 ## Current Status
 
-I came up with what I thought was a clever idea, but alas I made a mistake that means it probably wouldn't work. This repo will be updated once I finish up v2.
+I came up with what I thought was a clever idea, but alas I made a mistake that means it probably wouldn't work. A pity - I really like the thought if it. attempt1 hides the evidence.
+
+The more sensible route I'll probably go with is to set up a seq that includes a yellow protein and a blue one, and hope that they mix to for an OK green. BLYv2_easy builds up the cassette. It's essentially: J23106 promoter → RBS (B0030) → fwYellow → RBS (B0030) → aeBlue → B1006 terminator (plus some spacers). 
+
+I'm still steing though, it would be really cool to add some extra novelty.
