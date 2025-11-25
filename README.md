@@ -22,7 +22,27 @@ The cassette gets placed into GenScript's pUC57-Kan vector. Here it is annotated
 
 <img width="823" height="829" alt="image" src="https://github.com/user-attachments/assets/0f2c0e36-4708-4cdf-9b69-df08a8ea629b" />
 
+Casette details:
+
+```
+Component                      Start    End      Length  
+------------------------------------------------------------
+Promoter J23106                0        35       35      
+Spacer 1                       35       46       11      
+RBS B0030 (fwYellow)           46       58       12      
+RBS spacer                     58       64       6       
+fwYellow (modified) CDS        64       796      732     
+Intergenic spacer              796      804      8       
+RBS B0030 (aeBlue)             804      816      12      
+RBS spacer                     816      822      6       
+aeBlue CDS                     822      1518     696     
+Terminator B1006               1518     1557     39      
+
+Total cassette length: 1557 bp
+```
+
+
 ## Current Status
 
-Finishing up order and waiting for shipping. About to receive a transformation kit. Might have growing colonies by Christmas.
+Plasmid is in production. About to receive a transformation kit. Might have growing colonies by Christmas.
 
