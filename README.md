@@ -4,7 +4,7 @@
 
 I got the first plasmid and transformed it into e. c. but it had very low expression. Eventually some blue color was visible (aeBlue) but only after a long time at room temp.
 
-As a new attempt, I looked at other sources of green coloration in nature, settling on producing biliverdin. New plasmids ordered, wish me luck.
+As a new attempt, I looked at other sources of green coloration in nature, settling on producing biliverdin. ~~New plasmids ordered, wish me luck.~~ EDIT: order cancelled, since my business address is a residential address. TBD what next.
 
 ## Old stuff
 
