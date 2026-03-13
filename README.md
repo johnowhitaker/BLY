@@ -4,7 +4,9 @@
 
 I got the first plasmid and transformed it into e. c. but it had very low expression. Eventually some blue color was visible (aeBlue) but only after a long time at room temp.
 
-As a new attempt, I looked at other sources of green coloration in nature, settling on producing biliverdin. ~~New plasmids ordered, wish me luck.~~ EDIT: order cancelled, since my business address is a residential address. TBD what next.
+As a new attempt, I looked at other sources of green coloration in nature, settling on producing biliverdin. ~~New plasmids ordered, wish me luck.~~ EDIT: order cancelled, since my business address is a residential address.
+
+I have now ordered it from GenScript, in their [pET-24a(+)](https://www.genscript.com/vector/detail?vector_name=cEVULTI0YSglMkIp&refer=gensmart) vector.  I set the 5' RE to EcoRI and the 3' to NotI. $198 inc ~50 shipping and 10 for glycerol stock as an add-on. The T7 promoter shouldn't do anything in the strains I plan on using. Wish me luck :) 
 
 ## Old stuff
 
