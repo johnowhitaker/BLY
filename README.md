@@ -1,5 +1,14 @@
 # BLY
 
+## Update: Biliverdin v2
+
+I got the first biliverdin one, and the colonies themselves didn't really show much color, but the agar itself did - as feared the biliverdin is likely diffusing out. Bottom plate has a streak expressing this:
+
+<img width="1086" height="505" alt="image" src="https://github.com/user-attachments/assets/677d1a5e-bd84-425a-a195-d7a0c1f40d80" />
+
+Anyway, on to the final attempt: using a protein from tree frogs to hopefully bind the biliverdin and keep it in place. Notebook has the deisgn for v2. I also went for a high-copy plasmid. Risky bet but hopefully we get enough expression to show some actual color!
+
+
 ## Update: Biliverdin
 
 I got the first plasmid and transformed it into e. c. but it had very low expression. Eventually some blue color was visible (aeBlue) but only after a long time at room temp.
