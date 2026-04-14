@@ -2,6 +2,10 @@
 
 ## Update: Biliverdin v2
 
+The pre-transformed one I streaked out isn't looking very green, tragically. Also, after checking and checking, I re-did the order and forgot to click away from the default vector. Luckily I had a tiny bit of ampicillin left, so could make a few plates, but still - lame. Trying a more iron-rich media and attempting a transform into BL21 soon in case it is just this cloning strain not expressing much protein, we shall see.....
+
+## Update: Biliverdin diffusion
+
 I got the first biliverdin one, and the colonies themselves didn't really show much color, but the agar itself did - as feared the biliverdin is likely diffusing out. Bottom plate has a streak expressing this:
 
 <img width="1086" height="505" alt="image" src="https://github.com/user-attachments/assets/677d1a5e-bd84-425a-a195-d7a0c1f40d80" />
